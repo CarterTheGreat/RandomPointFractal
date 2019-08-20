@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Options
+comment0.text=\ Asks\ for\ whether\ you\ would\ like\ to\ find\ the\ distance\ between\ two\ points,\ \r\n\ find\ the\ volume\ and\ surface\ area\ of\ a\ sphere,\ or\ the\ area\ of\ a\ triangle,\r\n\ then\ takes\ the\ inputs\ needed\ to\ be\ able\ to\ calculate\ what\ the\ user\ requested.\r\n\ (Ex.\ X-coordinates\ and\ Y-oordinates\ to\ find\ the\ distance\ between\ the\ two\ points.)\r\n\ \ \ \r\n\ \ \r\n\ \ Carter\ Watts,\ Edgar\ Morfin\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ distance()
+comment3.params=
+comment3.target=void\ sphere()
+comment4.params=
+comment4.target=void\ triangle()
+numComments=5
